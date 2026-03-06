@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Trabalhos" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#FF000000</item>
+        <item name="colorPrimaryDark">#FF000000</item>
+        <item name="colorAccent">#FF33B5E5</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">#FF000000</item>
+    </style>
+
+    <style name="Theme.Trabalhos.ModernArt" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF3F51B5</item>
+        <item name="colorPrimaryDark">#FF303F9F</item>
+        <item name="colorAccent">#FFFF4081</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">#FF303F9F</item>
+    </style>
+</resources>

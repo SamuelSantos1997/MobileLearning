@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#FF333333</color>
+    <color name="gray_button">#FF666666</color>
+    <color name="holo_blue">#FF33B5E5</color>
+    <color name="red_time">#FFFF4444</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Trabalhos</string>
+    <style name="Theme.Trabalhos" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#FF000000</item>
+        <item name="colorPrimaryDark">#FF000000</item>
+        <item name="colorAccent">#FF33B5E5</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">#FF000000</item>
+    </style>
+    <style name="Theme.Trabalhos.ModernArt" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF3F51B5</item>
+        <item name="colorPrimaryDark">#FF303F9F</item>
+        <item name="colorAccent">#FFFF4081</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">#FF303F9F</item>
+    </style>
+</resources>
